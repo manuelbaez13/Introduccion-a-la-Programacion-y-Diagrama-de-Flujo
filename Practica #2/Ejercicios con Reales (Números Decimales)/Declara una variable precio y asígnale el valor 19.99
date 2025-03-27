@@ -1,0 +1,5 @@
+Algoritmo Precio_
+	Definir precio Como Real
+    precio = 19.99
+    Escribir "El precio es: ", precio
+FinAlgoritmo

@@ -1,0 +1,5 @@
+Algoritmo Multiplciar_Area
+	Definir area Como Real
+    area = 3.14 * 2.5
+    Escribir "El área es: ", area
+FinAlgoritmo
